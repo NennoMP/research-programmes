@@ -61,11 +61,12 @@ ___
 | [EPFL](https://summer.epfl.ch/)                                                   | Undergraduate | CS/Robotics                 | 1st Dec.   |
 | [ETH Zurich](https://inf.ethz.ch/studies/summer-research-fellowship.html)         | Undergraduate | Physics/CS/Engineering      | 16th Dec.  |
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate | Physics/CS/Engineering      | 16th March |
-##### UAE
+##### Saudi Arabia / UAE
 
 | Programme                                   | Eligibility   | Research Areas | Deadline  |
-| ------------------------------------------- | ------------- | -------------- | --------- |
-| [MBZUAI UGRIP](https://mbzuai.ac.ae/ugrip/) | Undergraduate | AI             | 28th Feb. |
+| ----------------------------------------------------------------------------------------- | ------------- | -------------- | --------- |
+| [KAUST](https://admissions.kaust.edu.sa/study/internships) | Undergraduate | CS/Engineering | N/A |
+| [MBZUAI UGRIP](https://mbzuai.ac.ae/ugrip/)                                               | Undergraduate | AI             | 28th Feb. |
 ##### UK
 
 | Programme                                                                             | Eligibility            | Research Areas  | Deadline    |
