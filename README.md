@@ -35,7 +35,7 @@ ___
 
 | Programme                                                  | Eligibility                | Research Areas | Deadline                                  |
 | ---------------------------------------------------------- | -------------------------- | -------------- | ----------------------------------------- |
-| [Desy](https://summerstudents.desy.de/)                    | Undergraduate              | Physics        | 31st Jan.                                 |
+| [DESY](https://summerstudents.desy.de/)                    | Undergraduate              | Physics        | 31st Jan.                                 |
 | [MPI for Informatics](https://www.cis.mpg.de/internships/) | Undergraduate/Graduate/PhD | CS             | 1st Nov. \| 5 months before starting date |
 ### Poland
 
