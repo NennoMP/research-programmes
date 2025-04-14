@@ -96,9 +96,9 @@ ___
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate/Graduate | Physics/CS/Engineering      | 16th March |
 ### Taiwan
 
-| Programme                                                                                                                                                 | Eligibility            | Research Areas             | Deadline                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
-| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346) [\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
+| Programme                                                                                                                                                | Eligibility            | Research Areas             | Deadline                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
+| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)[\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
 ### UAE / Saudi Arabia
 
 | Programme                                                  | Eligibility            | Research Areas | Deadline  |
@@ -109,8 +109,8 @@ ___
 
 | Programme                                                                             | Eligibility                     | Research Areas                     | Deadline     |
 | ------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------- | ------------ |
-| [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
 | [Cambridge](https://www.postgraduate.study.cam.ac.uk/events/internships)              | Undegraduate                    | CS/Engineering/Humanities/Sciences | N/A          |
+| [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
 ### US
 For US-based programmes, the _nationality_ field indicates whether international students are eligible or not. Specifically:
 - _International_: open to international students. If not specified, the programme is only open to students currently enrolled in US universities.
