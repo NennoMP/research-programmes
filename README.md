@@ -10,7 +10,12 @@ Programmes are categorized by hosting country and include *eligibility* criteria
 
 Additionally, relevant research areas offered by the programme are listed in *research areas*. However, I strongly encourage you to check the programme website for more details, and to apply even if your degree is not an exact match.
 ___
+### Industry R&D
 
+| Programme                                                          | Eligibility                     | Research Areas | Deadline      |
+| ------------------------------------------------------------------ | ------------------------------- | -------------- | ------------- |
+| [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
+|                                                                    |                                 |                |               |
 ### Austria
 
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
@@ -24,9 +29,11 @@ ___
 | [INSAIT GRF](https://insait.ai/grf/)   | Graduate / New Grad | CS/Engineering/Math/Physics | N/A       |
 ### China
 
-| Programme                                             | Eligibility            | Research Areas          | Deadline                |
-| ----------------------------------------------------- | ---------------------- | ----------------------- | ----------------------- |
-| [USTC](https://ic.ustc.edu.cn/en/v7info.php?Nav_x=51) | Undergraduate/Graduate | Biology/CS/Math/Physics | 31st March \| 30th Sep. |
+| Programme                                             | Eligibility            | Research Areas                       | Deadline                |
+| ----------------------------------------------------- | ---------------------- | ------------------------------------ | ----------------------- |
+| [USTC](https://ic.ustc.edu.cn/en/v7info.php?Nav_x=51) | Undergraduate/Graduate | Biology/CS/Math/Physics              | 31st March \| 30th Sep. |
+| [FuSEP](https://fusep.ustc.edu.cn/fusep/)             | Undergraduate/Graduate | CS/Engineering/Math/Physics/Sciences | 13th April              |
+| [GRIPS](http://grips.zju.edu.cn/main.htm)             | Undergraduate/Graduate | CS/Engineering/Math/Physics/Sciences | 16th March              |
 ### Denmark
 
 | Programme                                                                                        | Eligibility            | Research Areas | Deadline   |
@@ -88,6 +95,11 @@ ___
 | [EPFL Summer](https://summer.epfl.ch/)                                            | Undergraduate/Graduate | CS/Robotics                 | 1st Dec.   |
 | [ETH Zurich](https://inf.ethz.ch/studies/summer-research-fellowship.html)         | Undergraduate/Graduate | Physics/CS/Engineering      | 16th Dec.  |
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate/Graduate | Physics/CS/Engineering      | 16th March |
+### Taiwan
+
+| Programme                                                                                                                                                 | Eligibility            | Research Areas             | Deadline                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
+| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346) [\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
 ### UAE / Saudi Arabia
 
 | Programme                                                  | Eligibility            | Research Areas | Deadline  |
@@ -96,9 +108,10 @@ ___
 | [MBZUAI UGRIP](https://mbzuai.ac.ae/ugrip/)                | Undergraduate/Graduate | AI             | 28th Feb. |
 ### UK
 
-| Programme                                                                             | Eligibility                     | Research Areas  | Deadline    |
-| ------------------------------------------------------------------------------------- | ------------------------------- | --------------- | ----------- |
-| [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience | Jan. & July |
+| Programme                                                                             | Eligibility                     | Research Areas                     | Deadline     |
+| ------------------------------------------------------------------------------------- | ------------------------------- | ---------------------------------- | ------------ |
+| [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
+| [Cambridge](https://www.postgraduate.study.cam.ac.uk/events/internships)              | Undegraduate                    | CS/Engineering/Humanities/Sciences | N/A          |
 ### US
 For US-based programmes, the _nationality_ field indicates whether international students are eligible or not. Specifically:
 - _International_: open to international students. If not specified, the programme is only open to students currently enrolled in US universities.
