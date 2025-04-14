@@ -15,7 +15,6 @@ ___
 | Programme                                                          | Eligibility                     | Research Areas | Deadline      |
 | ------------------------------------------------------------------ | ------------------------------- | -------------- | ------------- |
 | [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
-|                                                                    |                                 |                |               |
 ### Austria
 
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
