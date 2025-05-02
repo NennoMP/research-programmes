@@ -1,6 +1,5 @@
 # Summer Research Programmes
 This is a non-exhaustive list of **(paid)** research programmes for undergraduate students, recent graduates and PhDs. The majority of programmes takes place during the summer.
-
 ___
 Programmes are categorized by hosting country and include *eligibility* criteria relative to your academic status. Specifically:
 - _Undergraduate:_ open to current bachelor's students;
@@ -15,6 +14,12 @@ ___
 | Programme                                                          | Eligibility                     | Research Areas | Deadline      |
 | ------------------------------------------------------------------ | ------------------------------- | -------------- | ------------- |
 | [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
+### Open Source
+
+| Programme                                    | Eligibility                         | Research Areas | Deadline |
+| -------------------------------------------- | ----------------------------------- | -------------- | -------- |
+| [ESoC](https://www.esoc.dev/)                | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April    |
+| [GSoC](https://summerofcode.withgoogle.com/) | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April    |
 ### Austria
 
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
@@ -112,12 +117,11 @@ ___
 | [Cambridge](https://www.postgraduate.study.cam.ac.uk/events/internships)              | Undegraduate                    | CS/Engineering/Humanities/Sciences | N/A          |
 | [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
 ### US
-For US-based programmes, the _nationality_ field indicates whether international students are eligible or not. Specifically:
-- _International_: open to international students. If not specified, the programme is only open to students currently enrolled in US universities.
 
-| Programme                                                                    | Eligibility            | Research Areas         | Nationality   | Deadline  |
-| ---------------------------------------------------------------------------- | ---------------------- | ---------------------- | ------------- | --------- |
-| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/) | Graduate               | Engineering/Physics    | Italian       | May       |
-| [MIT SGI](https://sgi.mit.edu/)                                              | Undergraduate/Graduate | CS/Math/Physics        | International | 17th Feb. |
-| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)  | Undergraduate/Gradiate | CS/Engineering/Physics | International | 29th Jan. |
+| Programme                                                                                                                                                                                                         | Eligibility                         | Research Areas         | Deadline    | Notes                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------- | ----------- | ---------------------- |
+| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/)                                                                                                                                      | Graduate/PhD                        | Engineering/Physics    | May         | For Italian nationals  |
+| Fermilab - Italian Programme [\[1\]](https://www.unipi.it/index.php/maths-physics-and-nature/item/5153-summer-student-at-fermilab)[\[2\]](https://www.pi.infn.it/~donati/Didattica/PisaFermilabSummerSchool.html) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Physics | March/April | For Italian nationals  |
+| [MIT SGI](https://sgi.mit.edu/)                                                                                                                                                                                   | Undergraduate/Graduate              | CS/Math/Physics        | 17th Feb.   | Open to internationals |
+| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)                                                                                                                                       | Undergraduate/Gradiate              | CS/Engineering/Physics | 29th Jan.   | Open to internationals |
 
