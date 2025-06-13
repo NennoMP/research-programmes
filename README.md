@@ -16,10 +16,10 @@ ___
 | [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
 ### Open Source
 
-| Programme                                    | Eligibility                         | Research Areas | Deadline |
-| -------------------------------------------- | ----------------------------------- | -------------- | -------- |
-| [ESoC](https://www.esoc.dev/)                | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April    |
-| [GSoC](https://summerofcode.withgoogle.com/) | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April    |
+| Programme                                    | Eligibility                         | Research Areas | Deadline      |
+| -------------------------------------------- | ----------------------------------- | -------------- | ------------- |
+| [ESoC](https://www.esoc.dev/)                | Undergraduate/Graduate/New Grad/PhD | AI/CS          | Rolling basis |
+| [GSoC](https://summerofcode.withgoogle.com/) | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April         |
 ### Austria
 
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
