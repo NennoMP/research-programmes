@@ -1,6 +1,6 @@
 # Summer Research Programmes
 This is a non-exhaustive list of **(paid)** research programmes for undergraduate students, recent graduates and PhDs. The majority of programmes takes place during the summer.
-___
+
 Programmes are categorized by hosting country and include *eligibility* criteria relative to your academic status. Specifically:
 - _Undergraduate:_ open to current bachelor's students;
 - _Graduate:_ open to current master's students;
