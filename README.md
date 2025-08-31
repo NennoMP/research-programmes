@@ -11,15 +11,17 @@ Additionally, relevant research areas offered by the programme are listed in *re
 ___
 ### Industry R&D
 
-| Programme                                                          | Eligibility                     | Research Areas | Deadline      |
-| ------------------------------------------------------------------ | ------------------------------- | -------------- | ------------- |
-| [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
+| Programme                                                                                  | Eligibility                     | Research Areas | Deadline      |
+| ------------------------------------------------------------------------------------------ | ------------------------------- | -------------- | ------------- |
+| [Oracle](https://labs.oracle.com/pls/apex/r/labs/labs/internships)                         | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
+| [Pruna AI](https://careers.pruna.ai/jobs/5116044-working-student-master-thesis-internship) | Undergraduate/Graduate/New Grad | AI/CS          | Rolling basis |
 ### Open Source
 
 | Programme                                    | Eligibility                         | Research Areas | Deadline      |
 | -------------------------------------------- | ----------------------------------- | -------------- | ------------- |
 | [ESoC](https://www.esoc.dev/)                | Undergraduate/Graduate/New Grad/PhD | AI/CS          | Rolling basis |
 | [GSoC](https://summerofcode.withgoogle.com/) | Undergraduate/Graduate/New Grad/PhD | AI/CS          | April         |
+| [MLH Fellowship](https://fellowship.mlh.io/) | Undergraduate/Graduate/New Grad/PhD | CS             | 31st Aug.     |
 ### Austria
 
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
@@ -86,9 +88,10 @@ ___
 | [IFJ PAN](https://ppss.ifj.edu.pl/) | Undergraduate/Graduate | Physics        | 4th May  |
 ### Singapore
 
-| Programme                                                                                           | Eligibility            | Research Areas    | Deadline  |
-| --------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- | --------- |
-| [NTU Singapore](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship/programme-details) | Undergraduate/Graduate | AI/CS/Engineering | 28th Feb. |
+| Programme                                                                                           | Eligibility                         | Research Areas    | Deadline      |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------- | ------------- |
+| [CogAI4Sci](https://www.cogai4sci.com/)                                                             | Undergraduate/Graduate/New Grad/PhD | AI                | Rolling basis |
+| [NTU Singapore](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship/programme-details) | Undergraduate/Graduate              | AI/CS/Engineering | 28th Feb.     |
 ### Switzerland
 
 | Programme                                                                         | Eligibility            | Research Areas              | Deadline   |
@@ -101,9 +104,10 @@ ___
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate/Graduate | Physics/CS/Engineering      | 16th March |
 ### Taiwan
 
-| Programme                                                                                                                                                | Eligibility            | Research Areas             | Deadline                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
-| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)[\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
+| Programme                                                                                                                                                | Eligibility                         | Research Areas             | Deadline                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------------------------- | ----------------------------------------------- |
+| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)[\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate              | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
+
 ### UAE / Saudi Arabia
 
 | Programme                                                  | Eligibility            | Research Areas | Deadline  |
@@ -118,10 +122,12 @@ ___
 | [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
 ### US
 
-| Programme                                                                                                                                                                                                         | Eligibility                         | Research Areas         | Deadline    | Notes                  |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------- | ----------- | ---------------------- |
-| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/)                                                                                                                                      | Graduate/PhD                        | Engineering/Physics    | May         | For Italian nationals  |
-| Fermilab [\[1\]](https://www.unipi.it/index.php/maths-physics-and-nature/item/5153-summer-student-at-fermilab)[\[2\]](https://www.pi.infn.it/~donati/Didattica/PisaFermilabSummerSchool.html) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Physics | March/April | For Italian nationals  |
-| [MIT SGI](https://sgi.mit.edu/)                                                                                                                                                                                   | Undergraduate/Graduate              | CS/Math/Physics        | 17th Feb.   | Open to internationals |
-| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)                                                                                                                                       | Undergraduate/Gradiate              | CS/Engineering/Physics | 29th Jan.   | Open to internationals |
+| Programme                                                                                                                                                                                     | Eligibility                         | Research Areas         | Deadline    | Notes                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------- | ----------- | ------------------------------ |
+| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/)                                                                                                                  | Graduate/PhD                        | Engineering/Physics    | May         | For Italian nationals          |
+| [Cohere](https://cohere.com/research/scholars-program)                                                                                                                                        | Undergraduate/Graduate/New Grad/PhD | AI                     | 29th Aug.   | Remote, open to internationals |
+| Fermilab [\[1\]](https://www.unipi.it/index.php/maths-physics-and-nature/item/5153-summer-student-at-fermilab)[\[2\]](https://www.pi.infn.it/~donati/Didattica/PisaFermilabSummerSchool.html) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Physics | March/April | For Italian nationals          |
+| [MATS](https://www.matsprogram.org/apply)                                                                                                                                                     | Undergraduate/Graduate/New Grad     | AI                     | Feb./Oct.   | In-person in US/UK offices     |
+| [MIT SGI](https://sgi.mit.edu/)                                                                                                                                                               | Undergraduate/Graduate              | CS/Math/Physics        | 17th Feb.   | Open to internationals         |
+| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)                                                                                                                   | Undergraduate/Gradiate              | CS/Engineering/Physics | 29th Jan.   | Open to internationals         |
 
