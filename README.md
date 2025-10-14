@@ -52,19 +52,21 @@ ___
 | [Aalto Science Institute](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Neuroscience/Physics | 31st Jan. |
 ### France
 
-| Programme                                                                                                                                 | Eligibility                | Research Areas              | Deadline   |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | --------------------------- | ---------- |
-| [École Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/research-program-for-international-talents/how-to-apply)  | Undergraduate/Graduate/Phd | CS/Engineering/Math/Physics | 13rd Jan.  |
-| [ESRF/ILL](https://www.esrf.fr/home/events/conferences/2025/x-ray-and-neutron-science---international-student-summer-programme-2025.html) | Undergraduate/Graduate     | Physics                     | 16th March |
+| Programme                                                                                                                                 | Eligibility                         | Research Areas                 | Deadline      |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------ | ------------- |
+| [École Polytechnique](https://programmes.polytechnique.edu/en/exchange-programs/research-program-for-international-talents/how-to-apply)  | Undergraduate/Graduate/Phd          | CS/Engineering/Math/Physics    | 13rd Jan.     |
+| [ESRF/ILL](https://www.esrf.fr/home/events/conferences/2025/x-ray-and-neutron-science---international-student-summer-programme-2025.html) | Undergraduate/Graduate              | Physics                        | 16th March    |
+| [INRIA](https://jobs.inria.fr/public/classic/en/offres?filtre=stage-recherche)                                                            | Undergraduate/Graduate/New Graduate | AI/CS/Engineering/Math/Physics | Rolling basis |
 ### Germany
 
-| Programme                                                                                     | Eligibility                         | Research Areas      | Deadline                                  |
-| --------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------- | ----------------------------------------- |
-| [DESY](https://summerstudents.desy.de/)                                                       | Undergraduate/Graduate              | Physics             | 31st Jan.                                 |
-| [ESO](https://www.eso.org/sci/meetings/2025/SummerResearch2025.html)                          | Undergraduate/Graduate              | Physics             | 30th Jan.                                 |
-| GSI-FAIR [\[1\]](https://hgs-hire.de/summer-program/)[\[2\]](https://theory.gsi.de/stud-pro/) | Undergraduate/Graduate              | Engineering/Physics | 31st Jan.                                 |
-| [MPI for Informatics](https://www.cis.mpg.de/internships/)                                    | Undergraduate/Graduate/New Grad/PhD | CS                  | 1st Nov. \| 5 months before starting date |
-| [MPI for Physics](https://www.pks.mpg.de/condensed-matter/work-with-us)                       | Undergraduate/Graduate/New Grad/PhD | Physics             | 30th Nov.                                 |
+| Programme                                                                                     | Eligibility                         | Research Areas                              | Deadline                                  |
+| --------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------- | ----------------------------------------- |
+| [DESY](https://summerstudents.desy.de/)                                                       | Undergraduate/Graduate              | Physics                                     | 31st Jan.                                 |
+| [CaCTüS](https://www.projects.tuebingen.mpg.de/)                                              | Undergraduate/Graduate              | AI/CS/Engineering/Math/Neuroscience/Physics | 20th Nov.                                 |
+| [ESO](https://www.eso.org/sci/meetings/2025/SummerResearch2025.html)                          | Undergraduate/Graduate              | Physics                                     | 30th Jan.                                 |
+| GSI-FAIR [\[1\]](https://hgs-hire.de/summer-program/)[\[2\]](https://theory.gsi.de/stud-pro/) | Undergraduate/Graduate              | Engineering/Physics                         | 31st Jan.                                 |
+| [MPI for Informatics](https://www.cis.mpg.de/internships/)                                    | Undergraduate/Graduate/New Grad/PhD | CS                                          | 1st Nov. \| 5 months before starting date |
+| [MPI for Physics](https://www.pks.mpg.de/condensed-matter/work-with-us)                       | Undergraduate/Graduate/New Grad/PhD | Physics                                     | 30th Nov.                                 |
 ### Italy
 
 | Programme                                                                             | Eligibility                                       | Research Areas | Notes                     | Deadline |
@@ -110,10 +112,11 @@ ___
 
 ### UAE / Saudi Arabia
 
-| Programme                                                  | Eligibility            | Research Areas | Deadline  |
-| ---------------------------------------------------------- | ---------------------- | -------------- | --------- |
-| [KAUST](https://admissions.kaust.edu.sa/study/internships) | Undergraduate/Graduate | CS/Engineering | N/A       |
-| [MBZUAI UGRIP](https://mbzuai.ac.ae/ugrip/)                | Undergraduate/Graduate | AI             | 28th Feb. |
+| Programme                                                              | Eligibility                         | Research Areas | Deadline      |
+| ---------------------------------------------------------------------- | ----------------------------------- | -------------- | ------------- |
+| [KAUST](https://admissions.kaust.edu.sa/study/internships)             | Undergraduate/Graduate              | CS/Engineering | N/A           |
+| [KAUST - Optimization and ML lab](https://apply.interfolio.com/105097) | Undergraduate/Graduate/New Grad/PhD | AI             | Rolling basis |
+| [MBZUAI UGRIP](https://mbzuai.ac.ae/ugrip/)                            | Undergraduate/Graduate              | AI             | 28th Feb.     |
 ### UK
 
 | Programme                                                                             | Eligibility                     | Research Areas                     | Deadline     |
