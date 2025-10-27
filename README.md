@@ -37,9 +37,10 @@ ___
 
 | Programme                                             | Eligibility            | Research Areas                       | Deadline                |
 | ----------------------------------------------------- | ---------------------- | ------------------------------------ | ----------------------- |
-| [USTC](https://ic.ustc.edu.cn/en/v7info.php?Nav_x=51) | Undergraduate/Graduate | Biology/CS/Math/Physics              | 31st March \| 30th Sep. |
 | [FuSEP](https://fusep.ustc.edu.cn/fusep/)             | Undergraduate/Graduate | CS/Engineering/Math/Physics/Sciences | 13th April              |
 | [GRIPS](http://grips.zju.edu.cn/main.htm)             | Undergraduate/Graduate | CS/Engineering/Math/Physics/Sciences | 16th March              |
+| [HKU CDS](https://www.cs.hku.hk/rintern/)             | Undergraduate          | AI/CS/Math                           | May                     |
+| [USTC](https://ic.ustc.edu.cn/en/v7info.php?Nav_x=51) | Undergraduate/Graduate | Biology/CS/Math/Physics              | 31st March \| 30th Sep. |
 ### Denmark
 
 | Programme                                                                                        | Eligibility            | Research Areas | Deadline   |
@@ -61,12 +62,13 @@ ___
 
 | Programme                                                                                     | Eligibility                         | Research Areas                              | Deadline                                  |
 | --------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------- | ----------------------------------------- |
-| [DESY](https://summerstudents.desy.de/)                                                       | Undergraduate/Graduate              | Physics                                     | 31st Jan.                                 |
 | [CaCTüS](https://www.projects.tuebingen.mpg.de/)                                              | Undergraduate/Graduate              | AI/CS/Engineering/Math/Neuroscience/Physics | 20th Nov.                                 |
+| [DESY](https://summerstudents.desy.de/)                                                       | Undergraduate/Graduate              | Physics                                     | 31st Jan.                                 |
 | [ESO](https://www.eso.org/sci/meetings/2025/SummerResearch2025.html)                          | Undergraduate/Graduate              | Physics                                     | 30th Jan.                                 |
 | GSI-FAIR [\[1\]](https://hgs-hire.de/summer-program/)[\[2\]](https://theory.gsi.de/stud-pro/) | Undergraduate/Graduate              | Engineering/Physics                         | 31st Jan.                                 |
 | [MPI for Informatics](https://www.cis.mpg.de/internships/)                                    | Undergraduate/Graduate/New Grad/PhD | CS                                          | 1st Nov. \| 5 months before starting date |
 | [MPI for Physics](https://www.pks.mpg.de/condensed-matter/work-with-us)                       | Undergraduate/Graduate/New Grad/PhD | Physics                                     | 30th Nov.                                 |
+| [Robotics Institute Germany](https://rig-internships.de/)                                     | Undegraduate/Graduate               | AI/Engineering/Robotics                     | 20th Nov.                                 |
 ### Italy
 
 | Programme                                                                             | Eligibility                                       | Research Areas | Notes                     | Deadline |
@@ -78,6 +80,7 @@ ___
 | ------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------- | ---------- |
 | [OIST](https://admissions.oist.jp/oist-research-internship-program-description) | Undergraduate/Graduate/New Grad | CS/Engineering/Math/Natural Sciences/Physics | 15th April |
 | [SOKENDAI KEK](https://www.kek.jp/en/education/sokendai/ssp)                    | Undergraduate/Graduate          | Physics                                      | 2nd March  |
+| [OIST - MLDS Unit]()                                                            |                                 |                                              |            |
 ### Netherlands
 
 | Programme                                                 | Eligibility            | Research Areas | Deadline |
@@ -106,9 +109,9 @@ ___
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate/Graduate | Physics/CS/Engineering      | 16th March |
 ### Taiwan
 
-| Programme                                                                                                                                                | Eligibility                         | Research Areas             | Deadline                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------------------------- | ----------------------------------------------- |
-| ITRI [\[1\]](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346)[\[2\]](https://itri.applytojob.com/apply) | Undergraduate/Graduate              | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
+| Programme                                 | Eligibility            | Research Areas             | Deadline                                        |
+| ----------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
+| [ITRI](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
 
 ### UAE / Saudi Arabia
 
@@ -125,12 +128,12 @@ ___
 | [UCL Gatsby Computational Neuroscience Group](https://www.ucl.ac.uk/gatsby/vacancies) | Undergraduate/Graduate/New Grad | AI/Neuroscience                    | Jan. \| July |
 ### US
 
-| Programme                                                                                                                                                                                     | Eligibility                         | Research Areas         | Deadline    | Notes                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------- | ----------- | ------------------------------ |
-| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/)                                                                                                                  | Graduate/PhD                        | Engineering/Physics    | May         | For Italian nationals          |
-| [Cohere](https://cohere.com/research/scholars-program)                                                                                                                                        | Undergraduate/Graduate/New Grad/PhD | AI                     | 29th Aug.   | Remote, open to internationals |
-| Fermilab [\[1\]](https://www.unipi.it/index.php/maths-physics-and-nature/item/5153-summer-student-at-fermilab)[\[2\]](https://www.pi.infn.it/~donati/Didattica/PisaFermilabSummerSchool.html) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Physics | March/April | For Italian nationals          |
-| [MATS](https://www.matsprogram.org/apply)                                                                                                                                                     | Undergraduate/Graduate/New Grad     | AI                     | Feb./Oct.   | In-person in US/UK offices     |
-| [MIT SGI](https://sgi.mit.edu/)                                                                                                                                                               | Undergraduate/Graduate              | CS/Math/Physics        | 17th Feb.   | Open to internationals         |
-| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)                                                                                                                   | Undergraduate/Gradiate              | CS/Engineering/Physics | 29th Jan.   | Open to internationals         |
+| Programme                                                                          | Eligibility                         | Research Areas         | Deadline    | Notes                          |
+| ---------------------------------------------------------------------------------- | ----------------------------------- | ---------------------- | ----------- | ------------------------------ |
+| [ASI-CAIF](https://www.asi.it/bandi_e_concorsi/avviso-borse-di-studio-caif/)       | Graduate/PhD                        | Engineering/Physics    | May         | For Italian nationals          |
+| [Cohere](https://cohere.com/research/scholars-program)                             | Undergraduate/Graduate/New Grad/PhD | AI                     | 29th Aug.   | Remote, open to internationals |
+| [Fermilab](https://www.pi.infn.it/~donati/Didattica/PisaFermilabSummerSchool.html) | Undergraduate/Graduate/New Grad/PhD | CS/Engineering/Physics | March/April | For Italian nationals          |
+| [MATS](https://www.matsprogram.org/apply)                                          | Undergraduate/Graduate/New Grad     | AI                     | Feb./Oct.   | In-person in US/UK offices     |
+| [MIT SGI](https://sgi.mit.edu/)                                                    | Undergraduate/Graduate              | CS/Math/Physics        | 17th Feb.   | Open to internationals         |
+| [STScI](https://www.stsci.edu/opportunities/space-astronomy-summer-program)        | Undergraduate/Gradiate              | CS/Engineering/Physics | 29th Jan.   | Open to internationals         |
 
