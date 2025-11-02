@@ -79,7 +79,7 @@ ___
 
 | Programme                                                                                                           | Eligibility                     | Research Areas                                  | Deadline                |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------- | ----------------------- |
-| [OIST](https://admissions.oist.jp/oist-research-internship-program-description)                                     | Undergraduate/Graduate/New Grad | AI/CS/Engineering/Math/Natural Sciences/Physics | 15th April \| 15th Oct. |
+| [OIST](https://www.oist.jp/admissions/research-internship/program-description)                                      | Undergraduate/Graduate/New Grad | AI/CS/Engineering/Math/Natural Sciences/Physics | 15th April \| 15th Oct. |
 | [OIST - MLDS Unit](https://oist.mlds.jp/2025/08/29/oist-machine-learning-and-data-science-unit-summer-intern-2026/) | Undergraduate/Graduate          | AI/CS                                           |                         |
 | [SOKENDAI KEK](https://www.kek.jp/en/education/sokendai/ssp)                                                        | Undergraduate/Graduate          | Physics                                         | 2nd March               |
 ### Netherlands
