@@ -27,6 +27,7 @@ ___
 | Programme                                              | Eligibility                         | Research Areas          | Deadline |
 | ------------------------------------------------------ | ----------------------------------- | ----------------------- | -------- |
 | [IST Austria](https://phd.pages.ist.ac.at/isternship/) | Undergraduate/Graduate/New Grad/PhD | Biology/CS/Math/Physics | 5th Feb. |
+
 ### Bulgaria
 
 | Programme                              | Eligibility         | Research Areas              | Deadline  |
@@ -76,11 +77,11 @@ ___
 | [INFN](https://web.infn.it/csn1/index.php/it/notizie/news/127-borse-trimestrali-2025) | Undergraduate/Graduate/ New Grad (within 2 years) | Physics        | for Italian students only | 5th Feb. |
 ### Japan
 
-| Programme                                                                       | Eligibility                     | Research Areas                               | Deadline   |
-| ------------------------------------------------------------------------------- | ------------------------------- | -------------------------------------------- | ---------- |
-| [OIST](https://admissions.oist.jp/oist-research-internship-program-description) | Undergraduate/Graduate/New Grad | CS/Engineering/Math/Natural Sciences/Physics | 15th April |
-| [SOKENDAI KEK](https://www.kek.jp/en/education/sokendai/ssp)                    | Undergraduate/Graduate          | Physics                                      | 2nd March  |
-| [OIST - MLDS Unit]()                                                            |                                 |                                              |            |
+| Programme                                                                                                           | Eligibility                     | Research Areas                                  | Deadline                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------------------------- | ----------------------- |
+| [OIST](https://admissions.oist.jp/oist-research-internship-program-description)                                     | Undergraduate/Graduate/New Grad | AI/CS/Engineering/Math/Natural Sciences/Physics | 15th April \| 15th Oct. |
+| [OIST - MLDS Unit](https://oist.mlds.jp/2025/08/29/oist-machine-learning-and-data-science-unit-summer-intern-2026/) | Undergraduate/Graduate          | AI/CS                                           |                         |
+| [SOKENDAI KEK](https://www.kek.jp/en/education/sokendai/ssp)                                                        | Undergraduate/Graduate          | Physics                                         | 2nd March               |
 ### Netherlands
 
 | Programme                                                 | Eligibility            | Research Areas | Deadline |
@@ -109,9 +110,9 @@ ___
 | [Swiss Summer Student Particle Physics](https://swiss.sspp.program.phys.ethz.ch/) | Undergraduate/Graduate | Physics/CS/Engineering      | 16th March |
 ### Taiwan
 
-| Programme                                 | Eligibility            | Research Areas             | Deadline                                        |
-| ----------------------------------------- | ---------------------- | -------------------------- | ----------------------------------------------- |
-| [ITRI](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis / 3-4 months before starting date |
+| Programme                                 | Eligibility            | Research Areas             | Deadline                                         |
+| ----------------------------------------- | ---------------------- | -------------------------- | ------------------------------------------------ |
+| [ITRI](https://itri.applytojob.com/apply) | Undergraduate/Graduate | AI/CS/Engineering/Sciences | Rolling basis \| 3-4 months before starting date |
 
 ### UAE / Saudi Arabia
 
